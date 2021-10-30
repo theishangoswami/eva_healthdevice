@@ -1,16 +1,3 @@
-# eva_fall_detection_care_taker
+## Eva: Wearable device and Health App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We are building a wearable health device for the elderly. It's a whole ecosystem to monitor their health with a major focus on fall detection. In old age, the bones start getting weak. Nearly 3 million elderly people are severely injured every year (which sometimes causes death) due to falling. We wanted to solve this huge problem. There are a lot of cases, how Apple watch has saved countless lives by alerting the caretaker when the elderly fall. That's great but the Apple watch is a $400 device. We believe that staying healthy shouldn't be just for the people who can afford a four hundred dollar watch but for everyone. We are building this device for under 8 dollars!! This wearable device will be connected to a caretaker app. 
